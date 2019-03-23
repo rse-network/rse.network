@@ -1,0 +1,8 @@
+title: RSE Network
+url: https://rse.network
+homepage: https://rse.network
+exclude:
+  - README.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
